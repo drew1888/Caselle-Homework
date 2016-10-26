@@ -1,0 +1,9 @@
+C:\Users\drew1888\Documents\Work Stuff\Caselle\Home Work\TriangleCalculator\TriangleCalculator\bin\Release\TriangleCalculator.exe.config
+C:\Users\drew1888\Documents\Work Stuff\Caselle\Home Work\TriangleCalculator\TriangleCalculator\bin\Release\TriangleCalculator.exe
+C:\Users\drew1888\Documents\Work Stuff\Caselle\Home Work\TriangleCalculator\TriangleCalculator\bin\Release\TriangleCalculator.pdb
+C:\Users\drew1888\Documents\Work Stuff\Caselle\Home Work\TriangleCalculator\TriangleCalculator\obj\Release\TriangleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\drew1888\Documents\Work Stuff\Caselle\Home Work\TriangleCalculator\TriangleCalculator\obj\Release\TriangleCalculator.Properties.Resources.resources
+C:\Users\drew1888\Documents\Work Stuff\Caselle\Home Work\TriangleCalculator\TriangleCalculator\obj\Release\TriangleCalculator.TriangleForm.resources
+C:\Users\drew1888\Documents\Work Stuff\Caselle\Home Work\TriangleCalculator\TriangleCalculator\obj\Release\TriangleCalculator.csproj.GenerateResource.Cache
+C:\Users\drew1888\Documents\Work Stuff\Caselle\Home Work\TriangleCalculator\TriangleCalculator\obj\Release\TriangleCalculator.exe
+C:\Users\drew1888\Documents\Work Stuff\Caselle\Home Work\TriangleCalculator\TriangleCalculator\obj\Release\TriangleCalculator.pdb
